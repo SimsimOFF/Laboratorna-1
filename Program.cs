@@ -6,7 +6,7 @@ namespace Laboratorna1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("PRESS F");
+            Console.WriteLine("THE END");
         }
     }
 }
